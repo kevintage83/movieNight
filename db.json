@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Terminator",
+      "genre": "Sci-fi",
+      "image": "http://cdn.shopify.com/s/files/1/1148/8924/products/MPW-101316-a_1024x1024.jpg?v=1556255103",
+      "releaseYear": "1984"
+    },
+    {
+      "id": 2,
+      "name": "Alice in Wonderland",
+      "genre": "Cartoon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51dZ4cFt2PL.jpg",
+      "releaseYear": "1983"
+    },
+    {
+      "name": "The Hunger Games: Catching Fire",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-yFf3oG0FG-pHqplplGlUUvF_l7eyRDuU_8Uvr6aKg3gxHWUIQ",
+      "genre": "Sci-Fi",
+      "releaseYear": "2013",
+      "id": 3
+    },
+    {
+      "name": "Black Panther",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61BlAIoqQUL.jpg",
+      "genre": "Action",
+      "releaseYear": "2018",
+      "id": 4
+    },
+    {
+      "name": "Moonlight",
+      "image": "https://cdn.pastemagazine.com/www/system/images/photo_albums/best-movie-posters-2016/large/moonlight-ver2-xlg.jpg?1384968217",
+      "genre": "Drama",
+      "releaseYear": "2017",
+      "id": 5
+    },
+    {
+      "name": "Blade Runner 2043",
+      "image": "https://i.pinimg.com/originals/ac/2f/58/ac2f58d9275e2399279c1fda4220178c.jpg",
+      "genre": "Action",
+      "releaseYear": "2016",
+      "id": 6
+    },
+    {
+      "name": "John Wick 3",
+      "image": "https://img.moviepostershop.com/john-wick-chapter-3-parabellum-movie-poster-2019-1000779197.jpg",
+      "genre": "Action",
+      "releaseYear": "2018",
+      "id": 7
+    },
+    {
+      "name": "Pulp Fiction",
+      "image": "https://imgc.allpostersimages.com/img/print/u-g-F13MQF0.jpg?w=550&h=550&p=0",
+      "genre": "Action",
+      "releaseYear": "1980",
+      "id": 8
+    },
+    {
+      "name": "Hellboy",
+      "image": "https://www.reeldeals.com/Images/HomeImages/26451.jpg",
+      "genre": "Sci-fi",
+      "releaseYear": "2016",
+      "id": 9
+    },
+    {
+      "name": "Scream",
+      "image": "http://i.ebayimg.com/00/s/NTAwWDMzOA==/z/ht8AAOxyRhBS-sEK/$_3.JPG?set_id=2",
+      "genre": "Suspense",
+      "releaseYear": "1990",
+      "id": 10
+    }
+  ]
+}
